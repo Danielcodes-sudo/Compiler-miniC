@@ -1,2 +1,3 @@
 # Compiler-miniC
 This repository contains a compiler developed for the MiniC programming language as part of a university project. It was built during my second year of studies and includes components such as lexical analysis, syntax parsing, semantic analysis, and code generation. The project demonstrates fundamental concepts of compiler design and implementation.
+The uploaded documents include: a project report in Spanish with detailed explanations, input files (all files with the ".mc" extension), and all necessary files to run the compiler (miniC.y, miniC.l, Makefile, listaCodigo.h, listaCodigo.c, listaSimbolos.h, listaSimbolos.c, and the main file "miniC_main").
